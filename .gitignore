@@ -1,0 +1,10 @@
+# Ignore PyTorch model files
+*.pt
+
+# Optional: ignore common Python artefacts (uncomment if you want)
+__pycache__/
+*.py[cod]
+.env
+venv/
+.vscode/
+.ipynb_checkpoints/
